@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/olakara/express-giggles/issues"
   },
-  "homepage": "https://github.com/olakara/express-giggles#readme"
+  "homepage": "https://github.com/olakara/express-giggles#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
